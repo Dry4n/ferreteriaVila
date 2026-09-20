@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dry4n.github.io/ferreteriaVila/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://dry4n.github.io/ferreteriaVila/" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://dry4n.github.io/ferreteriaVila/ca.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dry4n.github.io/ferreteriaVila/" />
+    <image:image>
+      <image:loc>https://dry4n.github.io/ferreteriaVila/assets/estanteria-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dry4n.github.io/ferreteriaVila/assets/estanteria-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dry4n.github.io/ferreteriaVila/assets/estanteria-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dry4n.github.io/ferreteriaVila/assets/estanteria-jardineria.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dry4n.github.io/ferreteriaVila/ca.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://dry4n.github.io/ferreteriaVila/" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://dry4n.github.io/ferreteriaVila/ca.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dry4n.github.io/ferreteriaVila/" />
+    <image:image>
+      <image:loc>https://dry4n.github.io/ferreteriaVila/assets/estanteria-1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dry4n.github.io/ferreteriaVila/assets/estanteria-2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dry4n.github.io/ferreteriaVila/assets/estanteria-3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://dry4n.github.io/ferreteriaVila/assets/estanteria-jardineria.webp</image:loc>
+    </image:image>
+  </url>
+</urlset>
