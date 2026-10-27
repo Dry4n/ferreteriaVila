@@ -2,19 +2,25 @@
 
 Proyecto de DAW: página web de una ferretería de Navarcles, hecha con HTML, CSS y JavaScript.
 
-La web tiene una presentación, una galería de productos, un mapa de Google Maps y un formulario de prueba. Está disponible en castellano y catalán.
+La web tiene una presentación, una página de productos, un mapa de Google Maps y un formulario de prueba. Está disponible en castellano y catalán.
 
-## Archivos
+## Estructura
 
-- `index.html`: página en castellano.
-- `ca.html`: página en catalán.
-- `styles.css`: estilos de la web.
-- `script.js`: menú y botones de scroll, y validación del formulario.
-- `assets/`: imágenes usadas en la web.
-- `sitemap.xml`: listado de páginas para buscadores.
+```
+es/                 → versión en castellano
+  index.html
+  productos.html
+ca/                 → versión en catalán
+  index.html
+  productos.html
+assets/             → imágenes
+scripts/script.js   → menú, scroll y formulario
+styles.css          → estilos
+index.html          → redirige a es/
+```
 
 ## Cómo abrirlo
 
-Abrir `index.html` en el navegador. No hace falta instalar nada. Para ver el mapa se necesita internet.
+Abrir `index.html` o directamente `es/index.html` en el navegador. No hace falta instalar nada. Para ver el mapa se necesita internet.
 
-El formulario es de demostración: no envía correos ni guarda datos. La adaptación final a móvil está pendiente.
+El formulario es de demostración: no envía correos ni guarda datos.
